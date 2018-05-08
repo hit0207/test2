@@ -11,6 +11,6 @@ public class test {
 		System.out.println(path);
 			   path = path.substring(0, path.indexOf('/'));
 		System.out.println("test"+path);
-		System.out.println("testpush");
+		System.out.println("testpush and merge");
 	}
 }
